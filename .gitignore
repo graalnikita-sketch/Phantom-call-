@@ -1,0 +1,14 @@
+*.keystore
+*.jks
+*.pem
+*.key
+.env
+local.properties
+build/
+.gradle/
+google-services.json
+*.apk
+*.aab
+.idea/
+*.iml
+.kotlin/
